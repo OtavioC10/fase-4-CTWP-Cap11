@@ -1,4 +1,4 @@
-# fase-4-CTWP-Cap11
+# Fase-4-CTWP-Cap11
 
 # 🌾 Classificação de Grãos de Trigo com Aprendizado de Máquina
 
